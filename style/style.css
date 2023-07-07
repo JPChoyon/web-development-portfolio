@@ -17,7 +17,19 @@
   color: white;
   padding: 18px 35px;
 }
-
+.sectiontitle {
+  color: #181818;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+}
+.sectiondes {
+  color: #757575;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
 /* nav style  */
 nav {
   display: flex;
@@ -62,6 +74,7 @@ header {
   background: url(../images/header_bg.png);
   background-repeat: no-repeat;
   background-position: bottom right;
+  justify-content: space-between;
 }
 .profile {
   display: flex;
@@ -91,4 +104,36 @@ header {
   line-height: 30px;
   color: #757575;
   margin-bottom: 45px;
+  max-width: 585px;
+}
+/* about start */
+.aboutcont {
+  margin: 130px auto;
+  background-color: #fff;
+  border-radius: 10px;
+  background: #fff8f3;
+  width: 1140px;
+  height: 550px;
+}
+.abouthead {
+  padding-top: 131px;
+}
+.aboutpera {
+  margin: 30px 0px;
+  padding: 0px 156px;
+}
+.aboutinfocon {
+  display: flex;
+  justify-content: center;
+}
+.aboutinfo {
+  margin-left: 50px;
+}
+.info {
+  color: #757575;
+  font-weight: 400;
+}
+.infodes {
+  color: #474747;
+  font-weight: bold;
 }
