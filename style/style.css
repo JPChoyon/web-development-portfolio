@@ -3,16 +3,31 @@
   padding: 0;
   font-family: sans-serif, open sans, lato;
 }
+.primarycolor {
+  color: #fd6e0a;
+}
 nav {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-nav h3 > span {
-  color: #fd6e0a;
-}
+
 .navtitle {
   font-size: 45px;
   font-style: normal;
   font-weight: 800;
+}
+ul {
+  display: flex;
+}
+ul li {
+  list-style: none;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  color: #474747;
+  margin-right: 50px;
+}
+ul li a {
+  text-decoration: none;
 }
