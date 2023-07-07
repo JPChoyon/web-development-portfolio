@@ -1,3 +1,4 @@
+/* shared style */
 * {
   margin: 0;
   padding: 0;
@@ -16,6 +17,8 @@
   color: white;
   padding: 18px 35px;
 }
+
+/* nav style  */
 nav {
   display: flex;
   justify-content: space-between;
@@ -42,3 +45,5 @@ ul li {
 ul li a {
   text-decoration: none;
 }
+
+/* header style  */
