@@ -23,6 +23,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 30px 30px 30px 150px;
 }
 
 .navtitle {
@@ -51,6 +52,7 @@ ul li a {
   background: #fff8f3;
   display: flex;
   align-items: center;
+  padding: 30px 30px 30px 150px;
 }
 .profile {
   display: flex;
