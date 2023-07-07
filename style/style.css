@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif, open sans, lato;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav h3 > span {
+  color: #fd6e0a;
+}
+.navtitle {
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 800;
+}
