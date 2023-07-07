@@ -137,3 +137,14 @@ header {
   color: #474747;
   font-weight: bold;
 }
+/* doing section  */
+.doing {
+  margin: 131px auto;
+  width: 909px;
+}
+.dotitle {
+  margin-bottom: 30px;
+}
+.dosec {
+  margin: 0px 345px;
+}
