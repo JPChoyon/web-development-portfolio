@@ -26,9 +26,7 @@
 .sectiondes {
   color: #757575;
   text-align: center;
-  font-size: 18px;
   font-weight: 400;
-  line-height: 30px;
 }
 /* nav style  */
 nav {
@@ -146,5 +144,26 @@ header {
   margin-bottom: 30px;
 }
 .dosec {
-  margin: 0px 345px;
+  margin: 0px auto;
+  line-height: 30px;
+  font-size: 18px;
+  text-align: center;
+}
+/* skill style  */
+.skillcon {
+  display: flex;
+  margin: 0px auto 131px auto;
+  max-width: 1140px;
+}
+.skill {
+  padding: 33px 30px;
+  margin-left: 24px;
+}
+.skill > img {
+  height: 44px;
+  width: 44px;
+  margin-bottom: 30px;
+}
+.skilldes {
+  margin-top: 30px;
 }
