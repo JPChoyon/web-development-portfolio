@@ -3,12 +3,22 @@
   padding: 0;
   font-family: sans-serif, open sans, lato;
 }
-.primarycolor {
+.primarytext {
   color: #fd6e0a;
+}
+.primarybtn {
+  border-radius: 5px;
+  background: #fd6e0a;
+  border: 0;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  color: white;
+  padding: 18px 35px;
 }
 nav {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -19,6 +29,7 @@ nav {
 }
 ul {
   display: flex;
+  align-items: center;
 }
 ul li {
   list-style: none;
