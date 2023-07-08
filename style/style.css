@@ -172,3 +172,42 @@ header {
 .skilldes {
   margin-top: 30px;
 }
+/* resume section */
+.resumecon {
+  display: flex;
+  width: 1140px;
+  margin: auto;
+  gap: 90px;
+}
+.resumetitle {
+  margin-bottom: 30px;
+  font-size: 30px;
+  justify-content: center;
+}
+.columsubtitle {
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.columtitle {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.subtitledes {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.columdes {
+  margin-bottom: 30px;
+}
+hr {
+  margin: 0px 15px;
+  margin-bottom: 30px;
+}
+.btndown {
+  margin: 0px 575px;
+}
