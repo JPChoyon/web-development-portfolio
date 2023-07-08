@@ -209,7 +209,8 @@ hr {
   margin-bottom: 30px;
 }
 .btndown {
-  margin: 0px 575px;
+  width: 150px;
+  margin: 0px auto;
 }
 /* footeer section start */
 footer {
